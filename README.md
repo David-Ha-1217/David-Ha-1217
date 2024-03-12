@@ -9,6 +9,12 @@
     <p>
         겸손한 자세로 매일 배우고 질문하며 발전하는 개발자가 되고 싶은 <b>하 태민</b> 입니다.
     </p>
+    <p>
+        도전을 통해 성장하는 것을 즐기는 개발자입니다.
+    </p>
+    <p>
+        협업을 통해 더 나은 결과를 만들어나가는 것을 좋아합니다.
+    </p>
     <br><br>
 <h3 align="center"> 📌 Teck Stack 📌</h3>
     <p>
@@ -17,7 +23,7 @@
     </p> 
     <p>
         <h4> Back-end</h4>
-         <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-yellow?&logo=Spring&logoColor=6DB33F""> <img src="https://img.shields.io/badge/DataAccess-Spring%20JPA-lightgrey">
+         <img src = "https://img.shields.io/badge/Java-007396?&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-yellow?&logo=Spring&logoColor=6DB33F"">
     </p>
     <p>
         <h4> RDBMS </h4>
@@ -28,7 +34,7 @@
         <img src = "https://img.shields.io/badge/DevOps-Git-F05032?logo=Git&logoColor=F05032">
     </p>
   <br><br>
-  <h3 align="center"> 🐣 Contact Me 🐣 </h3>
+<h3 align="center"> 🐣 Contact Me 🐣 </h3>
     <p>
       <span>
           <a href="https://kiwi-egret-245.notion.site/Hi-I-m-Ha-Taemin-434e4a0e6b7648e193b75cd2e76ca458?pvs=4"><img src="https://img.shields.io/badge/Notion-20C997?logo=Notion&logoColor=white" /></a>
